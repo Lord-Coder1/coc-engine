@@ -7,12 +7,14 @@ The first goal is to build some engine type of thing in Java,
 just to have something up and runnning quickly as well as have something to use in school.  
 After some of the core mechanics have been made, a transmission into C++ is going to be made. 
 
+```
 1. Render Engine
 2. Maths Library
 3. Physics Engine
 4. Input Library
 5. Audio Library
 6. Networking System
+```
 
 # How-to
 Currently there's nothing here, so it's basically impossible for you to do anything with it.
