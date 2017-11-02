@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+D:\CocEngine\.metadata\.plugins\org.eclipse.jdt.core
+1257138949.index
